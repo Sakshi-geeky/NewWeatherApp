@@ -44,7 +44,7 @@ Hilt: For dependency injection.
 Coroutines: For handling asynchronous operations.
 MVVM Architecture: To keep the code modular and clean.
 
-SS for the app
+NOTE:THERE IS LIMIATATIONS ON API CALLING AS IT IS A TRIAL VERSION SO AFTER 5 ATTEMPTS OF SEARCH YOU WONT BE ABLE TO SEARCH FURTHER 
 
 
 
